@@ -1,0 +1,14 @@
+json-glib
+libseccomp
+bubblewrap
+ostree
+vala
+gcab
+python3
+ninja
+meson
+appstream-glib
+pipewire
+xdg-desktop-portal
+xdg-desktop-portal-gtk
+flatpak
