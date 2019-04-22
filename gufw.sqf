@@ -1,0 +1,13 @@
+json-glib
+geoclue2
+ninja
+brotli
+woff2
+hyphen
+libwebp
+webkit2gtk
+python3
+py3cairo
+pygobject3-python3
+ufw
+gui-ufw
