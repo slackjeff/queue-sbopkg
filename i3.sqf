@@ -8,8 +8,7 @@ perl-AnyEvent
 dmenu
 xcb-util-xrm
 libxkbcommon
-i3
 confuse
 i3status
 dmenu
-i3gaps
+i3
