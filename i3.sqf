@@ -10,5 +10,4 @@ xcb-util-xrm
 libxkbcommon
 confuse
 i3status
-dmenu
 i3
