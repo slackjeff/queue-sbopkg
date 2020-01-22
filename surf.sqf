@@ -1,0 +1,10 @@
+json-glib
+geoclue2
+ninja
+brotli
+woff2
+hyphen
+libwebp
+webkit2gtk
+dmenu
+surf
