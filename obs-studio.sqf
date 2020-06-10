@@ -1,4 +1,3 @@
-jack-audio-connection-kit
 jansson
 libfdk-aac
 libxkbcommon
