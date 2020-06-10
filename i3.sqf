@@ -10,4 +10,5 @@ xcb-util-xrm
 libxkbcommon
 confuse
 i3status
+i3lock
 i3
