@@ -5,6 +5,8 @@ brotli
 woff2
 hyphen
 libwebp
+wpe-backend-fdo
+lib-wpe
 webkit2gtk
 dmenu
 surf
