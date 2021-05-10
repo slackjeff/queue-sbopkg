@@ -1,0 +1,15 @@
+docutils
+lua
+libbluray
+mujs
+libass
+x264
+x265
+libwebp  
+aom
+libplacebo
+ninja
+meson
+ffmpeg4
+libplacebo
+mpv
